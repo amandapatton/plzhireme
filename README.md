@@ -17,7 +17,7 @@ Bachelor of Science
 - Advertising Analyst @ Viewport
 - Email Marketing at Scale
 - Media Buying
-- A/B Testing & Experiementation
+- A/B Testing & Experimentation
 
 ## SQL Projects
 ### Project 1 - Sales Analysis
